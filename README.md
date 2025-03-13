@@ -1,7 +1,7 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlpNnh2M2FzYnozNGI5c2I0ZjZmdjJ2OTdibnh2MHRsODMybXJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggTpDiVoKI57hAjSYB/giphy.gif)]
+![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlpNnh2M2FzYnozNGI5c2I0ZjZmdjJ2OTdibnh2MHRsODMybXJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggTpDiVoKI57hAjSYB/giphy.gif)
 
-<h1 align="center">Hi 👋, I'm ismail hossain</h1>
-<h3 align="center">A passionate jr. frontend developer from Bangladesh</h3>
+<h1 align="left">Hi 👋, I'm ismail hossain</h1>
+<h3 align="left">A passionate jr. frontend developer from Bangladesh</h3>
 
 
 <img align="center" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
