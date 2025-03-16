@@ -12,17 +12,22 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [PH-Tube](https://ismail-dev-code.github.io/ph-tube/)
+- 🔭 I’m currently working on [PH-Tube](https://ismail-dev-code.github.io/ph-tube/) [English-Janala](https://ismail-dev-code.github.io/english-janala/)
 
-- 🌱 I’m currently learning **Frameworks, PH Course etc**
+- 🌱 I’m currently learning **"I’m currently learning and improving my skills in front-end development, with a focus on HTML, CSS, JavaScript, and React. As an intern developer, I’m passionate about building interactive web applications and collaborating on exciting projects to grow as a developer."**
 
 - 👯 I’m looking to collaborate on [Peddy-Pet-Adoption](https://ismail-dev-code.github.io/Peddy-Pet-Adoption/)
 
-- 💬 Ask me about **JS, Frameworks etc**
+- 💬 Ask me about **Front-end development (HTML, CSS, JavaScript)
+My journey as an intern developer
+Open-source contributions
+Best practices in coding and debugging
+My favorite coding tools and libraries
+Feel free to reach out if you're interested in collaborating or just want to chat about development!"****
 
 - 📫 How to reach me **hm.ismail772@gmail.com**
 
-- ⚡ Fun fact **I am a fun loving person.**
+- ⚡ Fun fact **"I love turning coffee into code! ☕💻 I’m constantly learning new things and improving my development skills — feel free to check out my projects and contribute!".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
