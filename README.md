@@ -18,11 +18,10 @@
 
 - 👯 I’m looking to collaborate on [Peddy-Pet-Adoption](https://ismail-dev-code.github.io/Peddy-Pet-Adoption/)
 
-- 💬 Ask me about **Front-end development (HTML, CSS, JavaScript)
-My journey as an intern developer
-Open-source contributions
-Best practices in coding and debugging
-My favorite coding tools and libraries
+- 💬 Ask me about **Front-end development (HTML, CSS, JavaScript).
+My journey as an intern developer.
+Open-source contributions.
+My favorite coding tools and libraries.
 Feel free to reach out if you're interested in collaborating or just want to chat about development!"****
 
 - 📫 How to reach me **hm.ismail772@gmail.com**
