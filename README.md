@@ -14,15 +14,14 @@
 
 - 🔭 I’m currently working on [PH-Tube](https://ismail-dev-code.github.io/ph-tube/) [English-Janala](https://ismail-dev-code.github.io/english-janala/)
 
-- 🌱 I’m currently learning **"I’m currently learning and improving my skills in front-end development, with a focus on HTML, CSS, JavaScript, and React. As an intern developer, I’m passionate about building interactive web applications and collaborating on exciting projects to grow as a developer."**
+- 🌱 I’m currently learning **"and improving my skills in front-end development, with a focus on HTML, CSS, JavaScript, and React. As an intern developer, I’m passionate about building interactive web applications and collaborating on exciting projects to grow as a developer."**
 
 - 👯 I’m looking to collaborate on [Peddy-Pet-Adoption](https://ismail-dev-code.github.io/Peddy-Pet-Adoption/)
 
 - 💬 Ask me about **Front-end development (HTML, CSS, JavaScript).
 My journey as an intern developer.
-Open-source contributions.
-My favorite coding tools and libraries.
-Feel free to reach out if you're interested in collaborating or just want to chat about development!"****
+Open-source contributions and
+My favorite coding tools and libraries."****
 
 - 📫 How to reach me **hm.ismail772@gmail.com**
 
