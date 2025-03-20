@@ -32,10 +32,8 @@ My favorite coding tools and libraries."****
 <p align="left">
 <a href="https://linkedin.com/in/ismail-hossain24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail-hossain24" height="30" width="40" /></a>
 <a href="https://fb.com/m.ismail.hossain24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.ismail.hossain24" height="30" width="40" /></a>
- <a href="https://www.youtube.com/hm-ismail24" target="blank">
-    <img src="https://www.svgrepo.com/show/13671/youtube.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-
+ <a href="https://www.youtube.com/c/hm-ismail24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hm-ismail24" height="30" width="40" /></a> 
+<a href="https://twitter.com/iamifaisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamifaisal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
