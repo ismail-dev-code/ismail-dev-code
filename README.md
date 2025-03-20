@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on [PH-Tube](https://ismail-dev-code.github.io/ph-tube/)
  [English-Janala](https://ismail-dev-code.github.io/english-janala/)
 
-- 🌱 I’m currently learning **"and improving my skills in front-end development, with a focus on HTML, CSS, JavaScript, and React. As an intern developer, I’m passionate about building interactive web applications and collaborating on exciting projects to grow as a developer."**
+- 🌱 I’m currently learning **"and improving my skills in front-end development, with a focus on HTML, CSS, JavaScript, and React.  I’m constantly learning new things and improving my development skills — feel free to check out my projects and contribute! and I’m passionate about building interactive web applications and collaborating on exciting projects to grow as a developer."**
 
 - 👯 I’m looking to collaborate on [Peddy-Pet-Adoption](https://ismail-dev-code.github.io/Peddy-Pet-Adoption/)
 
@@ -26,7 +26,7 @@ My favorite coding tools and libraries."****
 
 - 📫 How to reach me **hm.ismail772@gmail.com**
 
-- ⚡ Fun fact **"I love turning coffee into code! ☕💻 I’m constantly learning new things and improving my development skills — feel free to check out my projects and contribute!".**
+- ⚡ Fun fact **"I love turning coffee into code!. ☕💻"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
