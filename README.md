@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismail-dev-code" alt="ismail-dev-code" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamifaisal" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [PH-Tube](https://ismail-dev-code.github.io/ph-tube/)
  [English-Janala](https://ismail-dev-code.github.io/english-janala/)
@@ -32,6 +32,7 @@ My favorite coding tools and libraries."****
 <p align="left">
 <a href="https://linkedin.com/in/ismail-hossain24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail-hossain24" height="30" width="40" /></a>
 <a href="https://fb.com/m.ismail.hossain24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.ismail.hossain24" height="30" width="40" /></a>
+<a href="https://youtube.com/hm-ismail24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.ismail.hossain24" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
