@@ -20,7 +20,6 @@
 - 👯 I’m looking to collaborate on [Peddy-Pet-Adoption](https://ismail-dev-code.github.io/Peddy-Pet-Adoption/)
 
 - 💬 Ask me about **Front-end development (HTML, CSS, JavaScript).
-My journey as an intern developer.
 Open-source contributions and
 My favorite coding tools and libraries."****
 
