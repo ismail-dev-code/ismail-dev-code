@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **"and improving my skills in front-end development, with a focus on HTML, CSS, Frameworks, JavaScript, and React. I’m passionate about building interactive web applications and collaborating on exciting projects to grow as a developer.  I’m constantly learning new things and improving my development skills — feel free to check out my projects and contribute!"**
 
-- 👯 I’m looking to collaborate on [peddy-pet-adoption](https://ismail-dev-code.github.io/peddy-pet-adoption/))
+- 👯 I’m looking to collaborate on [peddy-pet-adoption](https://ismail-dev-code.github.io/peddy-pet-adoption/)
 
 - 💬 Ask me about **Front-end development (HTML, CSS, JavaScript).
 Open-source contributions and
