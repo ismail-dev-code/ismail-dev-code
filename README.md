@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Check out my projects here: (https://ismail-web-developer.netlify.app/projects)
+- 🔭 Check out my projects here: https://ismail-web-developer.netlify.app/projects
 
 - 🌱 I’m currently learning **"and improving my skills in front-end development, with a focus on HTML, CSS, Frameworks, JavaScript, and React. I’m passionate about building interactive web applications and collaborating on exciting projects to grow as a developer.  I’m constantly learning new things and improving my development skills — feel free to check out my projects and contribute!"**
 
@@ -24,9 +24,7 @@ My favorite coding tools and libraries."****
 
 - 📫 How to reach me **hm.ismail772@gmail.com**
 
-- 📄 Know about my experiences <a href="https://ismail-web-developer.netlify.app/" target="_blank" rel="noopener noreferrer">here</a>
-
-
+- 📄 Know about my experiences: https://ismail-web-developer.netlify.app
 
 - ⚡ Fun fact **"I love turning coffee into code!. ☕💻"**
 
