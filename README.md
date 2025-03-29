@@ -24,7 +24,8 @@ My favorite coding tools and libraries."****
 
 - 📫 How to reach me **hm.ismail772@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://ismail-web-developer.netlify.app/" target="_blank">here</a>
+- 📄 Know about my experiences <a href="https://ismail-web-developer.netlify.app/" target="_blank" rel="noopener noreferrer">here</a>
+
 
 
 - ⚡ Fun fact **"I love turning coffee into code!. ☕💻"**
