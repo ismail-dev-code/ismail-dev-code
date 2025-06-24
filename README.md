@@ -9,9 +9,9 @@
 
 ### 🧠 About Me
 
-I’m a **full stack web developer** currently focused on mastering the MERN stack. I enjoy building interactive user interfaces with **React** and managing backend operations using **Node.js** and **Express**.
+I’m a **full stack** web developer focused on mastering the **MERN stack**. I enjoy building interactive user interfaces with **React**, and developing backend functionalities using **Node.js and Express.js**.
 
-With around 60% confidence in my skills, I’m actively working on real-world projects to strengthen my foundations and gain deeper understanding of scalable web development.
+I’m continuously learning and actively working on real-world projects to deepen my understanding of scalable web application development and improve my problem-solving skills.
 
 ---
 
