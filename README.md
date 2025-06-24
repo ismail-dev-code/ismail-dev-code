@@ -1,15 +1,26 @@
 ![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlpNnh2M2FzYnozNGI5c2I0ZjZmdjJ2OTdibnh2MHRsODMybXJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggTpDiVoKI57hAjSYB/giphy.gif)
 
 # 👋 Hello, I'm Ismail Hossain  
-## 💻 Full Stack Web Developer | React & JavaScript Enthusiast | Based in Bangladesh 🇧🇩  
+## 💻 Full Stack Web Developer | JavaScript & React Enthusiast | Based in Bangladesh 🇧🇩  
 
 <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding-gif" />
 
+---
+
 ### 🧠 About Me
 
-I'm a **full stack web developer** who enjoys transforming ideas into intuitive, high-performing web experiences. I specialize in building responsive user interfaces with **React**, and developing robust backends using **Node.js** and **Express**. I prioritize clean code, smooth UI interactions, and scalable architecture.
+I’m a **full stack web developer** currently focused on mastering the MERN stack. I enjoy building interactive user interfaces with **React** and managing backend operations using **Node.js** and **Express**.
 
-With a strong foundation in **JavaScript** and experience across the **MERN stack**, I am always eager to learn new technologies and follow best practices to deliver modern web solutions.
+With around 60% confidence in my skills, I’m actively working on real-world projects to strengthen my foundations and gain deeper understanding of scalable web development.
+
+---
+
+### 📫 Contact & Portfolio
+
+- 📧 Email: **hm.ismail772@gmail.com**  
+- 🌐 Portfolio: [ismail-web-developer.netlify.app](https://ismail-web-developer.netlify.app)  
+- 🧪 Projects: [See My Work](https://ismail-web-developer.netlify.app/projects)  
+- 🤝 Currently collaborating on: [CareerLinker](https://careerlinker-bd.web.app)
 
 ---
 
@@ -22,13 +33,13 @@ With a strong foundation in **JavaScript** and experience across the **MERN stac
   <li><strong>Backend:</strong> Node.js, Express.js</li>
   <li><strong>Database:</strong> MongoDB</li>
   <li><strong>Authentication & Hosting:</strong> Firebase</li>
-  <li><strong>Design & UI/UX:</strong> Figma, Pixso</li>
-  <li><strong>Version Control:</strong> Git & GitHub</li>
+  <li><strong>UI/UX & Design:</strong> Pixso, Figma</li>
+  <li><strong>Version Control & Editor:</strong> Git, GitHub, Visual Studio Code</li>
 </ul>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ismail-dev-code&show_icons=true&theme=default" height="160" />
@@ -41,7 +52,7 @@ With a strong foundation in **JavaScript** and experience across the **MERN stac
 
 ---
 
-### 🌍 Let's Connect
+### 🌍 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/ismail-hossain24" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
@@ -52,17 +63,10 @@ With a strong foundation in **JavaScript** and experience across the **MERN stac
 
 ---
 
-### 📫 Contact & Portfolio
-
-- 📧 Email: **hm.ismail772@gmail.com**  
-- 🌐 Portfolio: [https://ismail-web-developer.netlify.app](https://ismail-web-developer.netlify.app)  
-- 🧪 Projects: [Check out my work](https://ismail-web-developer.netlify.app/projects)  
-- 🤝 Currently collaborating on: [CareerLinker](https://careerlinker-bd.web.app)
-
----
-
 ### ⚡ More About Me
 
-I'm deeply passionate about building solutions that are not only functional but also aesthetically pleasing. I believe in writing clean, maintainable code and constantly strive to improve my skill set.
+As a growing developer, I focus on writing clean and maintainable code while continuously improving my skills. I'm especially interested in building responsive interfaces and understanding how frontend and backend systems integrate.
 
-> "_Turning ideas into scalable code — one line at a time._"
+I approach each project with curiosity and a desire to learn — aiming to create practical, real-world applications that are both useful and user-friendly.
+
+> "_Learning by building. Improving with every project._"
