@@ -14,9 +14,22 @@
 
 - 🔭 Check out my projects here: https://ismail-web-developer.netlify.app/projects
 
-- 🌱 I’m currently learning **"and improving my skills in front-end development, with a focus on HTML, CSS, Frameworks, JavaScript, and React. I’m passionate about building interactive web applications and collaborating on exciting projects to grow as a developer.  I’m constantly learning new things and improving my development skills — feel free to check out my projects and contribute!"**
+- 🌱 I’m currently focused on honing my skills in front-end development, with a strong foundation in HTML, CSS, JavaScript, and React. I enjoy creating interactive, responsive, and user-friendly web applications, and I'm always exploring new tools and technologies to level up my craft.
 
-- 👯 I’m looking to collaborate on [peddy-pet-adoption](https://ismail-dev-code.github.io/peddy-pet-adoption/)
+**My tech stack includes:**
+
+<ul>
+  <li>⚛️ React (with animations and hooks)</li>
+  <li>💅 CSS Frameworks like Tailwind and Bootstrap</li>
+  <li>🚀 JavaScript (ES6+)</li>
+  <li>🌐 Node.js & Express.js</li>
+  <li>🗂️ MongoDB</li>
+  <li>🔐 Firebase (Authentication & Hosting)</li>
+  <li>🎨 React Animation Libraries</li>
+  <li>🔄 REST APIs & JSON handling</li>
+</ul>
+
+- 👯 I’m looking to collaborate on [careerLinker](https://careerlinker-bd.web.app)
 
 - 💬 Ask me about **Front-end development (HTML, CSS, JavaScript).
 Open-source contributions and
