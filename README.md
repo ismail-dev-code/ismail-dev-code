@@ -1,4 +1,4 @@
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlpNnh2M2FzYnozNGI5c2I0ZjZmdjJ2OTdibnh2MHRsODMybXJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggTpDiVoKI57hAjSYB/giphy.gif")
+![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlpNnh2M2FzYnozNGI5c2I0ZjZmdjJ2OTdibnh2MHRsODMybXJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggTpDiVoKI57hAjSYB/giphy.gif)
 
 # 👋 Hello, I'm Ismail Hossain  
 ## 💻 Full Stack Web Developer | React & JavaScript Enthusiast | Based in Bangladesh 🇧🇩  
@@ -61,7 +61,7 @@ With a strong foundation in **JavaScript** and experience across the **MERN stac
 
 ---
 
-### ⚡ A Little More About Me
+### ⚡ More About Me
 
 I'm deeply passionate about building solutions that are not only functional but also aesthetically pleasing. I believe in writing clean, maintainable code and constantly strive to improve my skill set.
 
