@@ -13,6 +13,9 @@ I’m a **full stack** web developer focused on mastering the **MERN stack**. I 
 
 I’m continuously learning and actively working on real-world projects to deepen my understanding of scalable web application development and improve my problem-solving skills.
 
+Currently exploring:
+- Building a [Plantnet](https://plantnet-bd.web.app) Web App with authentication and maps
+
 ---
 
 ### 📫 Contact & Portfolio
