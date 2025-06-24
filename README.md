@@ -1,31 +1,29 @@
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlpNnh2M2FzYnozNGI5c2I0ZjZmdjJ2OTdibnh2MHRsODMybXJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggTpDiVoKI57hAjSYB/giphy.gif)
+![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlpNnh2M2FzYnozNGI5c2I0ZjZmdjJ2OTdibnh2MHRsODMybXJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggTpDiVoKI57hAjSYB/giphy.gif")
 
-# 👋 Hi, I'm Ismail Hossain  
-### A Passionate Front-End Developer from Bangladesh 🇧🇩  
+# 👋 Hello, I'm Ismail Hossain  
+## 💻 Full Stack Web Developer | React & JavaScript Enthusiast | Based in Bangladesh 🇧🇩  
 
-<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding-gif">
+<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding-gif" />
 
-🔭 I’m focused on building dynamic and responsive web applications using modern web technologies.  
-💡 I'm a self-motivated learner, always looking to grow and improve as a developer.  
-📫 Reach me at: **hm.ismail772@gmail.com**  
-🌐 Portfolio: [ismail-web-developer.netlify.app](https://ismail-web-developer.netlify.app)  
-🚀 Projects: [View My Work](https://ismail-web-developer.netlify.app/projects)  
-🤝 Open to collaborations on meaningful and impactful projects.
+### 🧠 About Me
+
+I'm a **full stack web developer** who enjoys transforming ideas into intuitive, high-performing web experiences. I specialize in building responsive user interfaces with **React**, and developing robust backends using **Node.js** and **Express**. I prioritize clean code, smooth UI interactions, and scalable architecture.
+
+With a strong foundation in **JavaScript** and experience across the **MERN stack**, I am always eager to learn new technologies and follow best practices to deliver modern web solutions.
 
 ---
 
-### 💻 Tech Stack
+### 🚀 Tech Stack & Tools
 
 <ul>
-  <li>⚛️ React (with hooks, context, and animation libraries)</li>
-  <li>💅 CSS Frameworks: Tailwind CSS, Bootstrap</li>
-  <li>🚀 JavaScript (ES6+), TypeScript (beginner)</li>
-  <li>🌐 Backend: Node.js, Express.js</li>
-  <li>🗂️ Database: MongoDB</li>
-  <li>🔐 Firebase (Authentication, Hosting)</li>
-  <li>🎨 UI/UX Tools: Figma</li>
-  <li>🧪 REST APIs, Postman, JSON handling</li>
-  <li>🔧 Tools: Git, GitHub, VS Code</li>
+  <li><strong>Frontend:</strong> React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap</li>
+  <li><strong>State Management:</strong> Context API</li>
+  <li><strong>API & Data Handling:</strong> Axios, RESTful APIs</li>
+  <li><strong>Backend:</strong> Node.js, Express.js</li>
+  <li><strong>Database:</strong> MongoDB</li>
+  <li><strong>Authentication & Hosting:</strong> Firebase</li>
+  <li><strong>Design & UI/UX:</strong> Figma, Pixso</li>
+  <li><strong>Version Control:</strong> Git & GitHub</li>
 </ul>
 
 ---
@@ -33,17 +31,17 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismail-dev-code&show_icons=true&theme=default" alt="Ismail's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-dev-code&layout=compact&theme=default" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ismail-dev-code&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-dev-code&layout=compact&theme=default" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-dev-code&theme=default" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-dev-code&theme=default" height="160" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🌍 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/ismail-hossain24" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
@@ -54,6 +52,17 @@
 
 ---
 
-### ⚡ Fun Fact
-_"I love turning coffee into clean, functional code ☕💻."_
+### 📫 Contact & Portfolio
 
+- 📧 Email: **hm.ismail772@gmail.com**  
+- 🌐 Portfolio: [https://ismail-web-developer.netlify.app](https://ismail-web-developer.netlify.app)  
+- 🧪 Projects: [Check out my work](https://ismail-web-developer.netlify.app/projects)  
+- 🤝 Currently collaborating on: [CareerLinker](https://careerlinker-bd.web.app)
+
+---
+
+### ⚡ A Little More About Me
+
+I'm deeply passionate about building solutions that are not only functional but also aesthetically pleasing. I believe in writing clean, maintainable code and constantly strive to improve my skill set.
+
+> "_Turning ideas into scalable code — one line at a time._"
