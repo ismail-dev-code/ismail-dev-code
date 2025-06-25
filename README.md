@@ -12,6 +12,7 @@
 I’m a **full stack** web developer focused on mastering the **MERN stack**. I enjoy building interactive user interfaces with **React**, and developing backend functionalities using **Node.js and Express.js**.
 
 I’m continuously learning and actively working on real-world projects to deepen my understanding of scalable web application development and improve my problem-solving skills.
+</br>
 **Currently exploring:**
 - Building a [Plantnet](https://plantnet-bd.web.app) Web App with authentication and maps
 
