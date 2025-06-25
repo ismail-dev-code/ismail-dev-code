@@ -13,16 +13,16 @@ I’m a **full stack** web developer focused on mastering the **MERN stack**. I 
 
 I’m continuously learning and actively working on real-world projects to deepen my understanding of scalable web application development and improve my problem-solving skills.
 **Currently exploring:**
-- Building a [Plantnet](https://plantnet-bd.web.app){:target="_blank"} Web App with authentication and maps
+- Building a [Plantnet](https://plantnet-bd.web.app) Web App with authentication and maps
 
 ---
 
 ### 📫 Contact & Portfolio
 
 - 📧 Email: **hm.ismail772@gmail.com**  
-- 🌐 Portfolio: [ismail-web-developer.netlify.app](https://ismail-web-developer.netlify.app){:target="_blank"}  
-- 🧪 Projects: [See My Work](https://ismail-web-developer.netlify.app/projects){:target="_blank"}  
-- 🤝 Currently collaborating on: [CareerLinker](https://careerlinker-bd.web.app){:target="_blank"}
+- 🌐 Portfolio: [ismail-web-developer.netlify.app](https://ismail-web-developer.netlify.app) 
+- 🧪 Projects: [See My Work](https://ismail-web-developer.netlify.app/projects)
+- 🤝 Currently collaborating on: [CareerLinker](https://careerlinker-bd.web.app)
 
 ---
 
