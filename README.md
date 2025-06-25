@@ -1,9 +1,12 @@
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlpNnh2M2FzYnozNGI5c2I0ZjZmdjJ2OTdibnh2MHRsODMybXJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggTpDiVoKI57hAjSYB/giphy.gif)
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlpNnh2M2FzYnozNGI5c2I0ZjZmdjJ2OTdibnh2MHRsODMybXJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggTpDiVoKI57hAjSYB/giphy.gif" alt="MasterHead" />
+</div>
+
 
 # 👋 Hello, I'm Ismail Hossain  
 ## 💻 Full Stack Web Developer | JavaScript & React Enthusiast | Based in Bangladesh 🇧🇩  
 
-<img align="center" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding-gif" />
+<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding-gif" />
 
 
 
