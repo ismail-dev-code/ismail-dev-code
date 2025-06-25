@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Ismail Hossain  
 ## 💻 Full Stack Web Developer | JavaScript & React Enthusiast | Based in Bangladesh 🇧🇩  
 
-<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding-gif" />
+<img align="center" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding-gif" />
 
 
 
