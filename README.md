@@ -24,7 +24,7 @@ I’m continuously learning and actively working on real-world projects to deepe
 ### 📫 Contact & Portfolio
 
 - 📧 Email: **hm.ismail772@gmail.com**  
-- 🌐 Portfolio: [full stack developer](https://ismail-hossain-portfolio.vercel.app) 
+- 🌐 Portfolio: [Full Stack Developer](https://ismail-hossain-portfolio.vercel.app) 
 - 🧪 Projects: [See My Work](https://ismail-hossain-portfolio.vercel.app/#projects)
 - 🤝 Currently collaborating on: [CareerLinker](https://careerlinker-bd.web.app)
 
