@@ -25,7 +25,7 @@ I’m continuously learning and actively working on real-world projects to deepe
 
 - 📧 Email: **hm.ismail772@gmail.com**  
 - 🌐 Portfolio: [ismail-web-developer.netlify.app](https://ismail-web-developer.netlify.app) 
-- 🧪 Projects: [See My Work](https://ismail-web-developer.netlify.app/projects)
+- 🧪 Projects: [See My Work](https://ismail-hossain-portfolio.vercel.app/#projects)
 - 🤝 Currently collaborating on: [CareerLinker](https://careerlinker-bd.web.app)
 
 ---
