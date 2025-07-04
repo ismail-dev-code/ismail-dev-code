@@ -64,6 +64,7 @@ I’m continuously learning and actively working on real-world projects to deepe
   <a href="https://fb.com/m.ismail.hossain24" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@hm-ismail24" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
   <a href="https://twitter.com/iamifaisal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a title="Discord: ismailhossain24"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" width="40" /></a>
 </p>
 
 ---
