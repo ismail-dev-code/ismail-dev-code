@@ -16,8 +16,11 @@ I’m a **full stack** web developer focused on mastering the **MERN stack**. I 
 
 I’m continuously learning and actively working on real-world projects to deepen my understanding of scalable web application development and improve my problem-solving skills.
 </br>
-**Currently exploring:**
-- Building [Knowvia- a knowledge sharing platform](https://knowvia-bd.web.app) using the MERN stack with full authentication, article management, likes, comments, and user notifications
+**Currently Building & Successfully Completed Projects:**
+- Building [🍽️ MealGiver – A Food Donation & Redistribution Platform](https://meal-giver.web.app) A full-featured MERN + Firebase platform connecting restaurants and charities. Includes role-based access (Admin, Restaurant, Charity, User), Stripe payments for charity role requests, donation requests, reviews, and real-time pickup confirmations. Actively adding new features to enhance impact and scalability.
+- Building [📦 NoaShip – A Parcel Delivery System](https://noaship.web.app) A delivery management platform with Admin, Rider, and User roles. Admins can track delivery status, approve/reject rider applications, assign roles, and monitor system operations in real time.
+- Completed [Knowvia- a knowledge sharing platform](https://knowvia-bd.web.app) Built using the MERN stack with full authentication, article management (create, edit, delete), likes, comments, and notification support for user engagement.
+- Completed [🎯 HobbyHub – A Hobby Group Management App](https://hobby-hub-bd.web.app) Helps users create and manage hobby groups, share blogs, and join communities. Includes dashboards, group insights, and a seamless user experience.
 
 ---
 
