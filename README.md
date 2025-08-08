@@ -4,7 +4,7 @@
 
 
 # 👋 Hello, I'm Ismail Hossain  
-## 💻 Full Stack Web Developer | JavaScript & React Enthusiast | Based in Bangladesh 🇧🇩  
+## 💻 Full Stack Developer | Based in Bangladesh 🇧🇩  
 
 <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding-gif" />
 
@@ -36,7 +36,7 @@ I’m continuously learning and actively working on real-world projects to deepe
 ### 🚀 Tech Stack & Tools
 
 <ul>
-  <li><strong>Frontend:</strong> React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap</li>
+  <li><strong>Frontend:</strong> React.js, JavaScript (ES6+), Typescript, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap</li>
   <li><strong>State Management:</strong> Context API</li>
   <li><strong>API & Data Handling:</strong> Axios, RESTful APIs</li>
   <li><strong>Backend:</strong> Node.js, Express.js</li>
