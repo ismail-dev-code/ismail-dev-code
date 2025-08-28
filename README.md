@@ -69,18 +69,16 @@ I’m continuously learning and actively working on real-world projects to deepe
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismail-dev-code&show_icons=true&locale=en&layout=compact" alt="ismail-dev-code" /></p>
+<p> <img align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-dev-code&show_icons=true&locale=en&layout=compact&langs_count=10" 
+    alt="ismail-dev-code" 
+  /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismail-dev-code&show_icons=true&locale=en" alt="ismail-dev-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-dev-code&" alt="ismail-dev-code" /></p>
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-dev-code&show_icons=true&locale=en&layout=compact&langs_count=10" 
-    alt="ismail-dev-code" 
-  />
-</p>
+
 
 
 
