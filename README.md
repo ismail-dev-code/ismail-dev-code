@@ -75,6 +75,14 @@ I’m continuously learning and actively working on real-world projects to deepe
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-dev-code&" alt="ismail-dev-code" /></p>
 
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-dev-code&show_icons=true&locale=en&layout=compact&langs_count=10" 
+    alt="ismail-dev-code" 
+  />
+</p>
+
+
 
 
 ### 🌍 Connect With Me
