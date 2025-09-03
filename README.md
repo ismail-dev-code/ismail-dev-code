@@ -25,19 +25,6 @@ I’m continuously learning and actively working on real-world projects to deepe
 ---
 
 
-
-### 💼 Professional Journey
-
-- **Frontend Developer Intern** — [XyneroTech Solutions](https://xynerotech.com)  
-  📅 August 2025  
-  - Working as a **Frontend Developer**, leveraging modern technologies including **React.js, Next.js, TypeScript, JavaScript, and Tailwind CSS**.  
-  - Collaborating with a dynamic and innovative team to build **scalable, user-friendly, and impactful digital solutions**.  
-  - Focusing on **responsive UI development**, **component-driven architecture**, and **seamless integration** with backend APIs.  
-  - Continuously learning, improving, and applying best practices to deliver clean and maintainable code.
-
----
-
-
 ### 📫 Contact & Portfolio
 
 - 📧 Email: **hm.ismail772@gmail.com**  
