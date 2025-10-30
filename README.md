@@ -20,7 +20,7 @@ I’m continuously learning and actively working on real-world projects to deepe
 - Working [MealGiver – A Food Donation & Redistribution Platform](https://meal-giver.web.app) A full-featured MERN + Firebase platform connecting restaurants and charities. Includes role-based access (Admin, Restaurant, Charity, User), Stripe payments for charity role requests, donation requests, reviews, and real-time pickup confirmations. Actively adding new features to enhance impact and scalability.
 - Working [NoaShip – A Parcel Delivery System App](https://noaship.web.app) A delivery management platform with Admin, Rider, and User roles. Admins can track delivery status, approve/reject rider applications, assign roles, and monitor system operations in real time.
 - Completed [Knowvia- A Knowledge Sharing Platform](https://knowvia-bd.web.app) Built using the MERN stack with full authentication, article management (create, edit, delete), likes, comments, and notification support for user engagement.
-- Completed [HobbyHub – A Hobby Group Management Platform](https://hobby-hub-bd.web.app) Helps users create and manage hobby groups, share blogs, and join communities. Includes dashboards, group insights, and a seamless user experience.
+- Completed [HobbyHub – A Hobby Group Management Website](https://hobby-hub-bd.web.app) Helps users create and manage hobby groups, share blogs, and join communities. Includes dashboards, group insights, and a seamless user experience.
 
 ---
 
