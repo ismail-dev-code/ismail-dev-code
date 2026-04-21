@@ -8,6 +8,8 @@
 
 ### 💻 Full Stack Developer (MERN) | Bangladesh 🇧🇩
 
+### 🏢 Currently working at **SIFR Agency (UK)** as a Full Stack Developer (Remote)
+
 <img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ---
@@ -22,50 +24,61 @@ I actively work on real-world projects to strengthen my problem-solving skills a
 
 ---
 
+## 💼 Experience
+
+### 🔹 Full Stack Developer — SIFR Agency (UK)
+
+📅 September 2025 – Present
+
+* Developing and maintaining full-stack applications using the **MERN stack**
+* Building responsive UI with **React.js and Next.js**
+* Designing REST APIs using **Node.js & Express.js**
+* Managing databases with **MongoDB**
+* Collaborating with team members to deliver scalable and production-ready features
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔹 Fixio – Service & Repair Platform *(Ongoing)*
 
-A modern platform for finding and booking repair services (inspired by Uber-style UX).
+🔗 https://www.fixio.co
+A modern service marketplace platform for finding and booking repair services.
 
-* Smart location-based service search
-* Clean, intuitive UI/UX design
-* Real-time interaction and scalable frontend architecture
-* Focus on performance and usability
+* Location-based service discovery
+* Clean and intuitive UI inspired by modern platforms
+* Scalable frontend architecture with strong UX focus
 
 ---
 
 ### 🔹 Halalicious – Food Management System *(Ongoing)*
 
-A full-stack admin & management system for handling food-related operations.
+A full-stack admin dashboard system for managing food operations.
 
-* Role-based dashboard (Admin-focused system)
-* Secure backend with authentication
-* Data management and system monitoring features
-* Built with scalable backend architecture
+* Role-based access control
+* Secure backend system
+* Data monitoring and management dashboard
 
 ---
 
 ### 🔹 MealGiver – Food Donation Platform
 
 🔗 https://meal-giver.web.app
-A full-featured MERN + Firebase platform connecting **restaurants and charities**.
 
+* MERN + Firebase platform
 * Role-based system (Admin, Restaurant, Charity, User)
-* Stripe payment integration
-* Donation request & tracking system
-* Real-time pickup confirmation
+* Stripe integration for payments
+* Donation lifecycle management
 
 ---
 
 ### 🔹 NoaShip – Parcel Delivery System
 
 🔗 https://noaship.web.app
-A logistics management system with **Admin, Rider, and User roles**.
 
-* Rider approval workflow
-* Delivery tracking dashboard
-* Real-time status monitoring
+* Multi-role system (Admin, Rider, User)
+* Delivery tracking & management
+* Real-time operational dashboard
 
 ---
 
@@ -73,9 +86,8 @@ A logistics management system with **Admin, Rider, and User roles**.
 
 🔗 https://knowvia-bd.web.app
 
-* Authentication system
-* Article CRUD operations
-* Likes, comments, notifications
+* Article management system
+* Authentication, likes, comments, notifications
 
 ---
 
@@ -83,9 +95,8 @@ A logistics management system with **Admin, Rider, and User roles**.
 
 🔗 https://hobby-hub-bd.web.app
 
-* Group creation & management
-* Community interaction features
-* Blog sharing system
+* Community-based platform
+* Group management & blog system
 
 ---
 
@@ -100,49 +111,10 @@ A logistics management system with **Admin, Rider, and User roles**.
 
 ## 🛠 Tech Stack
 
-### Frontend
-
-React.js • Next.js • TypeScript • Tailwind CSS • Bootstrap • HTML5 • CSS3
-
-### Backend
-
-Node.js • Express.js
-
-### Database
-
-MongoDB
-
-### Tools & Services
-
-Firebase • Axios • REST APIs • Git • GitHub • VS Code • Figma
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismail-dev-code&show_icons=true&layout=compact" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ismail-dev-code&show_icons=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-dev-code" />
-</p>
-
----
-
-## 🌍 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/ismail-hossain24">LinkedIn</a> •
-  <a href="https://fb.com/m.ismail.hossain24">Facebook</a> •
-  <a href="https://www.youtube.com/@hm-ismail24">YouTube</a> •
-  <a href="https://twitter.com/iamifaisal">Twitter</a> •
-  <a href="https://discord.gg/ecj88u68">Discord</a>
-</p>
+**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Bootstrap
+**Backend:** Node.js, Express.js
+**Database:** MongoDB
+**Tools:** Firebase, Axios, REST APIs, Git, GitHub, VS Code, Figma
 
 ---
 
