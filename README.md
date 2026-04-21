@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Ismail Hossain
 
-### 💻 Full Stack Developer | Bangladesh 🇧🇩
+### 💻 Full Stack Developer (MERN) | Bangladesh 🇧🇩
 
 <img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
@@ -23,6 +23,28 @@ I actively work on real-world projects to strengthen my problem-solving skills a
 ---
 
 ## 🚀 Featured Projects
+
+### 🔹 Fixio – Service & Repair Platform *(Ongoing)*
+
+A modern platform for finding and booking repair services (inspired by Uber-style UX).
+
+* Smart location-based service search
+* Clean, intuitive UI/UX design
+* Real-time interaction and scalable frontend architecture
+* Focus on performance and usability
+
+---
+
+### 🔹 Halalicious – Food Management System *(Ongoing)*
+
+A full-stack admin & management system for handling food-related operations.
+
+* Role-based dashboard (Admin-focused system)
+* Secure backend with authentication
+* Data management and system monitoring features
+* Built with scalable backend architecture
+
+---
 
 ### 🔹 MealGiver – Food Donation Platform
 
