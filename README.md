@@ -42,7 +42,7 @@ I actively work on real-world projects to strengthen my problem-solving skills a
 
 ### 🔹 Fixio – Service & Repair Platform *(Ongoing)*
 
-🔗 https://www.fixio.co
+🔗 https://www.fixillion.com
 A modern service marketplace platform for finding and booking repair services.
 
 * Location-based service discovery
