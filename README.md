@@ -115,12 +115,26 @@ A knowledge-sharing platform where students and individuals can publish articles
 
 ---
 
-## 📫 Contact & Portfolio
+## 📊 GitHub Statistics
 
-- 📧 Email: **[hm.ismail772@gmail.com](mailto:hm.ismail772@gmail.com)**
-- 🌐 Portfolio: https://ismail-hossain-portfolio.vercel.app
-- 🧪 Projects: https://ismail-hossain-portfolio.vercel.app/#projects
-- 🤝 Collaboration: https://careerlinker-bd.web.app
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ismail-dev-code&query=%24.public_repos&label=Public%20Repositories&logo=github&color=181717&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ismail-dev-code?label=Followers&logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/ismail-dev-code?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ismail-dev-code&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-dev-code&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ismail-dev-code&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismail-dev-code&theme=tokyonight" />
+</p>
 
 ---
 
@@ -133,6 +147,15 @@ A knowledge-sharing platform where students and individuals can publish articles
 **Database:** MongoDB, PostgreSQL
 
 **Tools & Technologies:** Firebase, Supabase, Prisma ORM, Axios, REST APIs, Git, GitHub, VS Code, Figma
+
+---
+
+## 📫 Contact & Portfolio
+
+- 📧 Email: **[hm.ismail772@gmail.com](mailto:hm.ismail772@gmail.com)**
+- 🌐 Portfolio: https://ismail-hossain-portfolio.vercel.app
+- 🧪 Projects: https://ismail-hossain-portfolio.vercel.app/#projects
+- 🤝 Collaboration: https://careerlinker-bd.web.app
 
 ---
 
