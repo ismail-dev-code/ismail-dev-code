@@ -20,7 +20,7 @@ I actively work on real-world projects to strengthen my problem-solving skills a
 
 ## 💼 Experience
 
-### 🔹 Full Stack Developer — Romote [SIFR Agency (UK)](https://sifr-uae.vercel.app)
+### 🔹 Full Stack Developer (Remote) at [SIFR Agency](https://sifr-uae.vercel.app)
 
 📅 September 2025 – Present
 
