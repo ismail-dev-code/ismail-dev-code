@@ -20,11 +20,11 @@ I actively work on real-world projects to strengthen my problem-solving skills a
 
 ## 💼 Experience
 
-### 🔹 Full Stack Developer — [SIFR Agency (UK)](https://sifr-uae.vercel.app)
+### 🔹 Full Stack Developer — Romote [SIFR Agency (UK)](https://sifr-uae.vercel.app)
 
 📅 September 2025 – Present
 
-🌐 **Company Website:** [https://sifr-uae.com](https://sifr-uae.vercel.app)
+🌐 **Company Website:** [https://sifr.com](https://sifr-uae.vercel.app)
 
 - Developing and maintaining full-stack applications using the **MERN stack**
 - Building responsive UI with **React.js and Next.js**
